@@ -1,0 +1,13 @@
+To: intershipcoordinator.tcs@gmail.com
+
+Subject: Interest in participating in the summer internship
+
+Respected sir/madam,
+
+I am Sheersak Saha, a B.Tech CSE student at VIT Bhopal University and I am interested in participating in the upcoming summer internship being organised at your organisation.
+I am fluent with programming languages like Java, Python and JavaScript while I am deep diving into web development with HTML, CSS and ReactJS. I am also familiar with database management by working in SQL. Also, I am currently focusing on learning neural networks with the help of TensorFlow. I would be glad to get an opportunity in an internship in any of the above mentioned fields for me to work on.
+I hope to get an answer from you soon.
+
+Thanking you,
+Yours sincerely,
+Sheersak Saha
