@@ -36,7 +36,7 @@ This project was completed as part of  the course of Digital Literacy (CSE0001).
 - I Completed **HackerRank Python (Basic) and SQL (Basic) Certifications**  
 - I gave the certification exam based on programming concepts like iterative constructs and string manipulation with Python
 - I also attempted the exam for database management systems by working with SQL
-- I also created a **Google Form quiz** for digital literacy awareness  as asked. The Google Form link is Attached below: 
+- I also created a **Google Form quiz** for digital literacy awareness  as asked. The Google Form link is attached below: 
 
  **Google Form Link:** *https://docs.google.com/forms/d/e/1FAIpQLSdA96sJ5z-Xk0pCxsVt_CXJyjHfBVPv_23OIV_bmJf9yrTliw/viewform*  
 
